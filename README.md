@@ -51,3 +51,12 @@ npm run dev:client                    # Vue-klienten på :3001 med hot reload
 ## Deploy
 
 Kommer i M6.
+
+## Images
+
+Client-imagen minskade från 539 MB till 73.8 MB.
+
+Images publiceras i GitHub Container Registry (GHCR):
+
+- `ghcr.io/osman20108/utpost-graphql-labb-osman-api`
+- `ghcr.io/osman20108/utpost-graphql-labb-osman-client`
